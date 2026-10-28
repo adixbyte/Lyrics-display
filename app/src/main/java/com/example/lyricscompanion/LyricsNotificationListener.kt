@@ -1,0 +1,4 @@
+package com.example.lyricscompanion
+
+import android.service.notification.NotificationListenerService
+class LyricsNotificationListener : NotificationListenerService()
