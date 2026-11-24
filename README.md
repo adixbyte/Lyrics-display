@@ -2,6 +2,7 @@
 A lyrics display featuring a Kotlin Android app that fetches JSON data, routes it through a Flask/ngrok API, and renders text on an Arduino Uno-powered LED screen.
 
 Steps to use it:
+
 1.form a virtual environment to download Flask in it and also add .gitignore so that it does not interfere with your github repo.
 
 2.form your ngrok https website and make changes accordingly, ADD ngrok http (your pc developer port number) , In a seperate terminal to turn ngrok online
